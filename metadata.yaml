@@ -1,0 +1,33 @@
+_repo: Inspiration-and-InterpretationSeven-Sermons-Preached-Before-the-University-of-Oxford_31090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgon, John William
+    alias: Burgon, J. W. (John William)
+    birthdate: 1813
+    deathdate: 1888
+    gutenberg_agent_id: '9738'
+    url: http://www.gutenberg.org/2009/agents/9738
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Burgon
+description: Includes seven sermons preached before the University of Oxford, as well
+  as preliminary remarks in answer to a volume entitled Essays and reviews.
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English'
+- !lcsh 'Bible -- Inspiration'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcc 'BR'
+title: 'Inspiration and Interpretation
+
+  Seven Sermons Preached Before the University of Oxford'
+url: http://www.gutenberg.org/ebooks/31090
